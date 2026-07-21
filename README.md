@@ -1,6 +1,8 @@
 # ⚡ STouch Chopin
-**STouch Chopin** is a high-performance Magisk / KernelSU / SukiSU / APatch module specifically designed and optimized for **POCO X3 GT / Redmi Note 10 Pro 5G (`chopin`)** powered by the **MediaTek Dimensity 1100** processor.
+**STouch Chopin** is a high-performance module specifically designed and optimized for POCO X3 GT / Redmi Note 10 Pro 5G (`chopin`)
+
 Created by: **Nov0502**
+
 ---
 ## 🌟 Key Features
 * 🎮 **Per-Game 120Hz Display Lock**: Automatically bypasses Xiaomi Powerkeeper & Joyose refresh rate throttling. Keeps your screen locked at 120Hz when playing games (PUBG, Mobile Legends, Genshin, etc.).
