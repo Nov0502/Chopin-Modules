@@ -1,7 +1,7 @@
 # ⚡ STouch Chopin
 **STouch Chopin** is a high-performance module specifically designed and optimized for POCO X3 GT / Redmi Note 10 Pro 5G (`chopin`)
 
-Created by: **Nov0502**
+Created by: **@Nov0502**
 
 ---
 ## 🌟 Key Features
