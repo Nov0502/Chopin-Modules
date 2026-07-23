@@ -55,3 +55,7 @@ When launching **PUBG Mobile** or **Mobile Legends**, you will see:
 ---
 **Author**: @Nov0502  
 **License**: Open Source / Free to use for POCO X3 GT community.
+
+⚠️ **Official Releases Notice**:
+Only download official releases directly from @Nov0502's official GitHub repository. 
+I'am not responsible for unofficial or modified repacked builds distributed by third parties.
